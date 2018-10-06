@@ -1,0 +1,2 @@
+Run the executable in the same directory and enter this as your password when prompted:
+Th!sIsAre@llyL0ngSentenceWh1chY0uShouldNOTtryT0retype
